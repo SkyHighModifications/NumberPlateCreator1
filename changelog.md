@@ -14,7 +14,7 @@
 - Added plate border so you can enable the border or not
 ### KNOWN BUGS
 - None as of yet!
-
+#
 ## Version 3.1.0 BETA
 - Added More fonts to choose from
 - Fixed Plate Font so you can switch the font (bug fixed plate stays same size when changing between any font).
