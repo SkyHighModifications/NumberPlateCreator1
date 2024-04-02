@@ -1,5 +1,15 @@
 # NumberPlateCreator
 
+## Version 3.2.1 BETA
+- Enhanced the Update checker message for clearer indication when an update is necessary.
+- Replaced "(Requires Update)" with "(Update Available)" and introduced a flashing circle to notify users of available updates.
+- Added the option for Border Color Customization.
+- Improved Loading Screen (Work in Progress) with enhancements over the previous version.
+### KNOWN BUGS
+- None as of yet!
+  
+#
+
 ## Version 3.2.0 BETA
 - Implemented Slogan Color Customization
 - Resolved Issue: Old-style plate now correctly displays without default background color
@@ -14,7 +24,9 @@
 - Added plate border so you can enable the border or not
 ### KNOWN BUGS
 - None as of yet!
+  
 #
+
 ## Version 3.1.0 BETA
 - Added More fonts to choose from
 - Fixed Plate Font so you can switch the font (bug fixed plate stays same size when changing between any font).
