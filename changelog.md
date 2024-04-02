@@ -1,5 +1,14 @@
 # NumberPlateCreator
 
+## Version 3.2.2 BETA
+- Implemented a fully functional loading screen with a dynamic progress indicator, providing real-time feedback on the page loading process.
+- Enhanced the aesthetics of the loading screen by adopting a darker background color and white text, ensuring better visual contrast and readability.
+- Improved the visual appeal of the creator interface by updating its background color to a darker shade and enhancing text legibility with white font color.
+### KNOWN BUGS
+- None as of yet!
+  
+#
+
 ## Version 3.2.1 BETA
 - Enhanced the Update checker message for clearer indication when an update is necessary.
 - Replaced "(Requires Update)" with "(Update Available)" and introduced a flashing circle to notify users of available updates.
