@@ -1,5 +1,16 @@
 # NumberPlateCreator
 
+## Version 3.2.3 BETA
+- Improved accuracy of loading screen's loading percentage to reflect actual page loading progress.
+- Enhanced functionality and appearance of loading screen loader and color scheme.
+- Added copyright notice to loading screen for clarity and attribution.
+- Visual enhancements to loading animations for a more polished look and feel.
+- Adjusted text color of creator interface to white, resembling the style from V3.2.1, and darkened the background for improved contrast.
+### KNOWN BUGS
+- None as of yet!
+  
+#
+
 ## Version 3.2.2 BETA
 - Implemented a fully functional loading screen with a dynamic progress indicator, providing real-time feedback on the page loading process.
 - Enhanced the aesthetics of the loading screen by adopting a darker background color and white text, ensuring better visual contrast and readability.
