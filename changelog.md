@@ -1,5 +1,15 @@
 # NumberPlateCreator
 
+## Version 3.2.4 BETA
+- Resolved numerous bugs and issues within the creator.
+- Added functionality to save both plates at once to your device.
+- Introduced the Tinted Plate option for enhanced customization.
+- Enhanced the visual appeal of loading animations.
+### KNOWN BUGS
+- None as of yet!
+  
+#
+
 ## Version 3.2.3 BETA
 - Improved accuracy of loading screen's loading percentage to reflect actual page loading progress.
 - Enhanced functionality and appearance of loading screen loader and color scheme.
