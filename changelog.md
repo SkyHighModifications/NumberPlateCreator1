@@ -1,5 +1,7 @@
 # NumberPlateCreator
 
+![Preview](https://media.discordapp.net/attachments/1079022575474188351/1226099552042356809/numberplatecreator.jpg?ex=66238931&is=66111431&hm=aa710a5abe4618ab86f72ebae3f319d8d31bfc43f509d9fd524093dbe67d162a&=&format=webp&width=592&height=592)
+
 ## Version 3.2.4 BETA
 - Resolved numerous bugs and issues within the creator.
 - Added functionality to save both plates at once to your device.
